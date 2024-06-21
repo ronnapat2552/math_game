@@ -1,9 +1,10 @@
 Math Game
 ----------
-This is Math Game, you must answer as fast as possible, you can customize RNG number and operations.
+**Math Game** is a Command Line Interface game,  
+the game will generate math questions for you to answer it.
 
-This repository contain both Official and Community
-- **Official Folder** contain Older Version and Some miscellaneous file
-- **Community Folder** comtain Source code of this Game, You can contribute to Source Code 
+This repository contain both Official and Community Folder
+- **Official Folder** contains Older Version and Some miscellaneous file
+- **Community Folder** contains Source code of this Game, You can contribute or optimize to Source Code 
 
 Link to Project Page : https://sites.google.com/view/tete-page/project/math-game
