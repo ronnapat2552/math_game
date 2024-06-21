@@ -1,6 +1,6 @@
 Math Game
 ----------
-**Math Game** is a Command Line Interface game,  
+**Math Game** is a Command Line Interface game written in Python,<br>
 the game will generate math questions for you to answer it.
 
 This repository contain both Official and Community Folder
