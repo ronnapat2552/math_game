@@ -250,7 +250,7 @@ while True :
             print("(a , *) - About")
             print("(x , -) - Exit")
             print("")
-            print(f"V.{version} {stage} Community Edition")
+            print(f"V.{version} {stage}")
             print("===========================================")
             title_options = input(">> ")
 
@@ -397,18 +397,16 @@ while True :
                 print("===========================================")
                 print("Math Game                       05 Mar 2023")
                 print("Create by Ronnapat Phawaphootanon")
-                print(f"\nV.{version} {stage} Community Edition")
+                print(f"\nV.{version} {stage}")
                 if bool(setting.get("DevMode")) == True :
                     print(f"Python V.{platform.python_version()}")
                 else :
                     None
-                print("\nThis project is a separate version of the")
-                print("Offical Edition, If you interest, Go check")
-                print("them out!")
-                print("\nLink to Offical Edition")
+                print("\nThis program is a main project of ")
+                print("all of my Python project and expand")
+                print("my programming skill.")
+                print("\nLink to Project")
                 print("https://sites.google.com/view/tete-page/project/math-game")
-                print("\nLink to Community Edition")
-                print("https://github.com/ronnapat2552/math_game")
                 print("===========================================")
                 input("Press enter key to exit. ")
             elif title_options == "x" or title_options == "-" : # Exit
